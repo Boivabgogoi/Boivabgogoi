@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning R programming
 - 💞️ I’m looking to collaborate on business analytics
-- 📫 How to reach me by gmail
+- 📫 through gmail
 
 <!---
 Boivabgogoi/Boivabgogoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
